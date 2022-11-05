@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack and Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [Avinashs.In](Avinashs.In)
+- 👨‍💻 All of my projects are available at [https://www.avinashs.in/](Avinashs.In)
 
-- 📝 I regularly write articles on [Avinashs.In](Avinashs.In)
+- 📝 I regularly write articles on [https://www.avinashs.in/](Avinashs.In)
 
 - 💬 Ask me about **Html, Css, JavaScript, React, Next.js, Node, Express, MongoDB, TypeScript, Solidity, Wordpress and SEO**
 
 - 📫 How to reach me **avinashsing888555@gmail.com**
 
-- 📄 Know about my experiences [Avinashs.In](Avinashs.In)
+- 📄 Know about my experiences [https://www.avinashs.in/](Avinashs.In)
 
 - ⚡ Fun fact **I'm Funny**
 
