@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack and Blockchain Development<br><br>👨‍💻 All of my projects are available at [Avinashs.In](https://www.avinashs.in/)<br><br>📝 I regularly write articles on [Avinashs.In](https://www.avinashs.in/)<br><br>💬 Ask me about <b>Java, Html, Css, JavaScript, React, Next.js, Node, Express, MongoDB, MySQL, TypeScript, Solidity, Wordpress and SEO</b><br><br>📫 How to reach me avinashsing888555@gmail.com<br><br>📄 Know about my experiences [Avinashs.In](https://www.avinashs.in/)<br><br>⚡ Fun fact I'm Funny
+🌱 I do MERN Stack web and React Native Mobile App Development<br><br>👨‍💻 All of my projects are available at [Avinashs.In](https://www.avinashs.in/)<br><br>📝 I regularly write articles on [Avinashs.In](https://www.avinashs.in/)<br><br>💬 Ask me about <b>Java, Html, Css, JavaScript, React, Next.js, Node, Express, MongoDB, MySQL, TypeScript, Solidity, Wordpress and SEO</b><br><br>📫 How to reach me avinashsing888555@gmail.com<br><br>📄 Know about my experiences [Avinashs.In](https://www.avinashs.in/)<br><br>⚡ Fun fact I'm Funny
 
 
 ## 🌐 Socials:
